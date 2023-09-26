@@ -2,7 +2,7 @@
 
 #IShop
 
-Combine all react tailwind components with regards on the ecommerce
+Combine all react tailwind components
 
 ![screenshot](images/ss.png)
 ![screenshot](images/ss1.png)
