@@ -5,8 +5,8 @@ import { ProductList } from "../components/feature/products";
 const MainPage = () => {
   return (
     <PageLayout>
-      <CategoryList />
       <ProductList />
+      <CategoryList />
     </PageLayout>
   );
 };
